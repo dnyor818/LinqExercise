@@ -1,0 +1,12 @@
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp2.1\LinqExercise.deps.json
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp2.1\LinqExercise.runtimeconfig.json
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp2.1\LinqExercise.runtimeconfig.dev.json
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp2.1\LinqExercise.dll
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\bin\Debug\netcoreapp2.1\LinqExercise.pdb
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.csprojAssemblyReference.cache
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.AssemblyInfoInputs.cache
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.AssemblyInfo.cs
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.csproj.CoreCompileInputs.cache
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.dll
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.pdb
+C:\Users\gnyork\repos\LinqExercise\LinqExercise\obj\Debug\netcoreapp2.1\LinqExercise.genruntimeconfig.cache
